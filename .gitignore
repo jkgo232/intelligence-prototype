@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Data
+data/raw/
+data/processed/
+data/features/
+data/splits/
+
+# Models
+*.pt
+*.ckpt
+*.bin
+
+# Notebooks output
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.log
