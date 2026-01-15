@@ -10,18 +10,14 @@ This repository implements a toy-model of a pipeline for detecting, ranking, and
 
 The pipeline consists of four main stages:
 
-1. Tiling \& Preprocessing
-   Large dynamic spectra are divided into fixed-size time–frequency tiles.
-2. CNN Training with Synthetic Injections
-   A convolutional neural network is trained to identify anomalous tiles using injected drifting narrowband signals.
-3. CNN Scoring of New Data
-   The trained CNN scores unseen tiles and ranks them by anomaly likelihood.
-4. LLM-Based Evaluation \& Interpretation
-   Top-ranked tiles are summarized via scalar features and evaluated by LLMs (ChatGPT, Claude, or local models).
+1. Tiling and Preprocessing: Large dynamic spectra are divided into fixed-size time–frequency tiles.
+2. CNN Training with Synthetic Injections: A convolutional neural network is trained to identify anomalous tiles using injected drifting narrowband signals.
+3. CNN Scoring of New Data: The trained CNN scores unseen tiles and ranks them by anomaly likelihood.
+4. LLM-Based Evaluation and Interpretation: Top-ranked tiles are summarized via scalar features and evaluated by LLMs (chatgpt or local models).
 
 
 
--- 
+--
 
 
 
@@ -41,7 +37,7 @@ The pipeline consists of four main stages:
 
 
 
--- 
+--
 
 
 
@@ -67,7 +63,7 @@ Metrics: Accuracy + AUC
 
 
 
--- 
+--
 
 
 
@@ -81,7 +77,7 @@ Injected signals have: Random start time and frequency, Linear frequency drift, 
 
 
 
-\##CNN Scoring \& Ranking:
+\##CNN Scoring and Ranking:
 
 The trained CNN is applied to unseen tiles using: python scripts/score\_tiles.py
 
