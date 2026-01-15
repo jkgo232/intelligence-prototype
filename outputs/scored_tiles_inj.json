@@ -1,0 +1,672 @@
+[
+  {
+    "tile_id": "tile_000094",
+    "cnn_score": 0.6260611414909363,
+    "features": {
+      "mean": -1.734723475976807e-17,
+      "std": 0.999997564930318,
+      "max": 11.359868884411167,
+      "kurtosis": 34.400859832499954,
+      "entropy": 1.0545797868540154
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000118",
+    "cnn_score": 0.6223912835121155,
+    "features": {
+      "mean": -1.3010426069826053e-18,
+      "std": 0.9999965581214111,
+      "max": 10.053319213786926,
+      "kurtosis": 42.02131685747702,
+      "entropy": 1.1623101056138263
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000134",
+    "cnn_score": 0.5933647155761719,
+    "features": {
+      "mean": -1.8431436932253575e-17,
+      "std": 0.9999969139041215,
+      "max": 9.700611163925403,
+      "kurtosis": 50.78001029185738,
+      "entropy": 1.2553749893056738
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000043",
+    "cnn_score": 0.5911104679107666,
+    "features": {
+      "mean": 2.949029909160572e-17,
+      "std": 0.9999975485555858,
+      "max": 11.463265831678829,
+      "kurtosis": 38.47504391769843,
+      "entropy": 1.0101795415382102
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000077",
+    "cnn_score": 0.5822871327400208,
+    "features": {
+      "mean": 6.938893903907228e-18,
+      "std": 0.9999998795930383,
+      "max": 12.159090252276673,
+      "kurtosis": 36.86647298849196,
+      "entropy": 0.9825914416539627
+    },
+    "injected": true,
+    "injection_params": {
+      "snr": 6.540287164653851,
+      "drift_rate": 0.2223593505964503,
+      "width": 2
+    }
+  },
+  {
+    "tile_id": "tile_000141",
+    "cnn_score": 0.5406743884086609,
+    "features": {
+      "mean": 1.214306433183765e-17,
+      "std": 0.999986456235368,
+      "max": 9.17754314271869,
+      "kurtosis": 23.265979272657695,
+      "entropy": 2.4167707267802334
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000133",
+    "cnn_score": 0.5368813276290894,
+    "features": {
+      "mean": 1.3877787807814457e-17,
+      "std": 0.9999863695398136,
+      "max": 9.221274382102498,
+      "kurtosis": 23.682774729142064,
+      "entropy": 2.4160684549364175
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000084",
+    "cnn_score": 0.5322476029396057,
+    "features": {
+      "mean": 1.0408340855860843e-17,
+      "std": 0.999996624361484,
+      "max": 10.642342165738093,
+      "kurtosis": 62.36445923148065,
+      "entropy": 1.0486757890358787
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000069",
+    "cnn_score": 0.5308775901794434,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999970852263028,
+      "max": 9.216192920519378,
+      "kurtosis": 38.40121446202438,
+      "entropy": 0.9125622559366113
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000045",
+    "cnn_score": 0.5060718059539795,
+    "features": {
+      "mean": 3.469446951953614e-18,
+      "std": 0.999996379929858,
+      "max": 14.63550191996874,
+      "kurtosis": 92.83003767096008,
+      "entropy": 0.44186757603664883
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000135",
+    "cnn_score": 0.482442706823349,
+    "features": {
+      "mean": -3.469446951953614e-18,
+      "std": 0.9999991619790419,
+      "max": 8.107954473828325,
+      "kurtosis": 16.817180987508696,
+      "entropy": 1.47434379390323
+    },
+    "injected": true,
+    "injection_params": {
+      "snr": 10.957751545166147,
+      "drift_rate": 0.3961607718397667,
+      "width": 2
+    }
+  },
+  {
+    "tile_id": "tile_000053",
+    "cnn_score": 0.46718263626098633,
+    "features": {
+      "mean": 1.3877787807814457e-17,
+      "std": 0.9999985447616683,
+      "max": 12.801915489560104,
+      "kurtosis": 25.400033682890733,
+      "entropy": 1.6466846183542336
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000006",
+    "cnn_score": 0.46662890911102295,
+    "features": {
+      "mean": 1.3877787807814457e-17,
+      "std": 0.99999895578565,
+      "max": 11.7759574428963,
+      "kurtosis": 19.24168847783611,
+      "entropy": 1.62160577017656
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000064",
+    "cnn_score": 0.4428264796733856,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999843786323964,
+      "max": 5.7669465213174576,
+      "kurtosis": 11.191164054622284,
+      "entropy": 2.7334325848399312
+    },
+    "injected": true,
+    "injection_params": {
+      "snr": 8.620304335394174,
+      "drift_rate": -0.2854153271804708,
+      "width": 2
+    }
+  },
+  {
+    "tile_id": "tile_000027",
+    "cnn_score": 0.4295441508293152,
+    "features": {
+      "mean": -3.8163916471489756e-17,
+      "std": 0.9999984471716222,
+      "max": 20.892288589316916,
+      "kurtosis": 90.60595200594624,
+      "entropy": 1.3196163998712163
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000052",
+    "cnn_score": 0.40750983357429504,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999998106584229,
+      "max": 19.347923676678082,
+      "kurtosis": 194.3405453020714,
+      "entropy": 0.9177726597228386
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000137",
+    "cnn_score": 0.37136656045913696,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999973864194119,
+      "max": 12.979174291441035,
+      "kurtosis": 33.08376117278542,
+      "entropy": 1.7926114761384193
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000002",
+    "cnn_score": 0.36441344022750854,
+    "features": {
+      "mean": 1.3877787807814457e-17,
+      "std": 0.9999833172376269,
+      "max": 9.860299682445012,
+      "kurtosis": 30.817182139027807,
+      "entropy": 2.4296151074616263
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000087",
+    "cnn_score": 0.3607749938964844,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999831294946027,
+      "max": 9.948293577637576,
+      "kurtosis": 31.914831816468613,
+      "entropy": 2.3945274717187166
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000096",
+    "cnn_score": 0.35974007844924927,
+    "features": {
+      "mean": -1.3877787807814457e-17,
+      "std": 0.9999823036658543,
+      "max": 12.108269061285752,
+      "kurtosis": 35.569431029759,
+      "entropy": 2.327141817084992
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000021",
+    "cnn_score": 0.34225666522979736,
+    "features": {
+      "mean": 6.938893903907228e-18,
+      "std": 0.9999821234337223,
+      "max": 12.21891105146795,
+      "kurtosis": 36.909522810790996,
+      "entropy": 2.2949853923715
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000037",
+    "cnn_score": 0.31231409311294556,
+    "features": {
+      "mean": -2.0816681711721685e-17,
+      "std": 0.9999979649604829,
+      "max": 27.489775525248323,
+      "kurtosis": 188.78531646549885,
+      "entropy": 1.2407425257650313
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000005",
+    "cnn_score": 0.29033663868904114,
+    "features": {
+      "mean": -6.938893903907228e-18,
+      "std": 0.9999810059087872,
+      "max": 17.618644876463563,
+      "kurtosis": 86.33885329114038,
+      "entropy": 1.9501437603471816
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000139",
+    "cnn_score": 0.28840720653533936,
+    "features": {
+      "mean": -1.3877787807814457e-17,
+      "std": 0.9999950191800673,
+      "max": 15.210120358003616,
+      "kurtosis": 99.95289434932543,
+      "entropy": 0.9014487394635377
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000035",
+    "cnn_score": 0.27487584948539734,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999813014839646,
+      "max": 17.35277060709045,
+      "kurtosis": 81.19548202760377,
+      "entropy": 1.9833956343732149
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000073",
+    "cnn_score": 0.26375991106033325,
+    "features": {
+      "mean": -1.3877787807814457e-17,
+      "std": 0.9999810032414879,
+      "max": 17.673544128931482,
+      "kurtosis": 87.82033080114263,
+      "entropy": 1.940059401389426
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000044",
+    "cnn_score": 0.2616201341152191,
+    "features": {
+      "mean": 1.3877787807814457e-17,
+      "std": 0.9999978989438851,
+      "max": 12.54305721254082,
+      "kurtosis": 23.808729996854527,
+      "entropy": 2.081250613460723
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000126",
+    "cnn_score": 0.25646501779556274,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999812454878033,
+      "max": 17.46051646300207,
+      "kurtosis": 83.65924102933133,
+      "entropy": 1.9685927245835897
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000051",
+    "cnn_score": 0.248674213886261,
+    "features": {
+      "mean": -6.938893903907228e-18,
+      "std": 0.9999980664950325,
+      "max": 5.636841995963656,
+      "kurtosis": 23.706164779270978,
+      "entropy": 0.7628009950757779
+    },
+    "injected": true,
+    "injection_params": {
+      "snr": 10.72154626501283,
+      "drift_rate": 0.16485085659203214,
+      "width": 1
+    }
+  },
+  {
+    "tile_id": "tile_000029",
+    "cnn_score": 0.2442157119512558,
+    "features": {
+      "mean": 2.0816681711721685e-17,
+      "std": 0.9999966180353544,
+      "max": 15.975802182915455,
+      "kurtosis": 102.46154034090799,
+      "entropy": 0.5561969024529992
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000014",
+    "cnn_score": 0.24265573918819427,
+    "features": {
+      "mean": 1.214306433183765e-17,
+      "std": 0.999970483755582,
+      "max": 7.115284039785574,
+      "kurtosis": 4.083289310043171,
+      "entropy": 2.899021623432004
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000124",
+    "cnn_score": 0.23818790912628174,
+    "features": {
+      "mean": -8.673617379884035e-18,
+      "std": 0.9999984802235757,
+      "max": 5.71607355870915,
+      "kurtosis": 23.473991269990083,
+      "entropy": 0.9901654680906925
+    },
+    "injected": true,
+    "injection_params": {
+      "snr": 11.751355279448672,
+      "drift_rate": -0.017696563057099768,
+      "width": 1
+    }
+  },
+  {
+    "tile_id": "tile_000022",
+    "cnn_score": 0.23636813461780548,
+    "features": {
+      "mean": 2.7755575615628914e-17,
+      "std": 0.9999976979692147,
+      "max": 18.982139359320524,
+      "kurtosis": 42.772922209114874,
+      "entropy": 1.6845607030840632
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000000",
+    "cnn_score": 0.22547835111618042,
+    "features": {
+      "mean": -1.734723475976807e-18,
+      "std": 0.9999976689725112,
+      "max": 31.468000239636545,
+      "kurtosis": 326.57858598411605,
+      "entropy": 1.2647219405489392
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000057",
+    "cnn_score": 0.20831003785133362,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999974922350742,
+      "max": 33.90340758674846,
+      "kurtosis": 381.636445443403,
+      "entropy": 1.2599449177690931
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000108",
+    "cnn_score": 0.20117613673210144,
+    "features": {
+      "mean": 4.163336342344337e-17,
+      "std": 0.9999980672509241,
+      "max": 30.1731620378862,
+      "kurtosis": 253.5699790499325,
+      "entropy": 1.2292319167813184
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000082",
+    "cnn_score": 0.19435136020183563,
+    "features": {
+      "mean": 2.0816681711721685e-17,
+      "std": 0.9999915951520701,
+      "max": 14.680617814491695,
+      "kurtosis": 29.673170909625064,
+      "entropy": 1.9008930455777342
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000129",
+    "cnn_score": 0.19232869148254395,
+    "features": {
+      "mean": 1.0408340855860843e-17,
+      "std": 0.9999978311433038,
+      "max": 33.91182074831745,
+      "kurtosis": 405.5989884332008,
+      "entropy": 0.9695850976264958
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000033",
+    "cnn_score": 0.18699567019939423,
+    "features": {
+      "mean": 3.469446951953614e-18,
+      "std": 0.9999696469299663,
+      "max": 7.332110639223291,
+      "kurtosis": 4.624950617942633,
+      "entropy": 2.881220229231528
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000076",
+    "cnn_score": 0.1856614202260971,
+    "features": {
+      "mean": -1.0408340855860843e-17,
+      "std": 0.9999955180122051,
+      "max": 26.576429199752432,
+      "kurtosis": 59.24327554471085,
+      "entropy": 1.445612309160159
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000013",
+    "cnn_score": 0.176454558968544,
+    "features": {
+      "mean": -6.938893903907228e-18,
+      "std": 0.9999917886954803,
+      "max": 14.299137141173569,
+      "kurtosis": 26.594810506437366,
+      "entropy": 1.9680489983578744
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000050",
+    "cnn_score": 0.17037013173103333,
+    "features": {
+      "mean": -2.0816681711721685e-17,
+      "std": 0.9999978954696973,
+      "max": 17.21518476448829,
+      "kurtosis": 46.21925371894661,
+      "entropy": 1.7842833391576896
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000101",
+    "cnn_score": 0.16911712288856506,
+    "features": {
+      "mean": -6.938893903907228e-18,
+      "std": 0.999989929472517,
+      "max": 14.503772476515122,
+      "kurtosis": 26.007604982198263,
+      "entropy": 2.026954082037186
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000117",
+    "cnn_score": 0.1617235243320465,
+    "features": {
+      "mean": 6.938893903907228e-18,
+      "std": 0.9999976449685054,
+      "max": 31.693956284489982,
+      "kurtosis": 386.3070687697765,
+      "entropy": 1.1255899033027394
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000109",
+    "cnn_score": 0.16108310222625732,
+    "features": {
+      "mean": 1.5612511283791264e-17,
+      "std": 0.9999902621602613,
+      "max": 14.00211029687884,
+      "kurtosis": 22.361025229857415,
+      "entropy": 2.092937707090831
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000062",
+    "cnn_score": 0.15462112426757812,
+    "features": {
+      "mean": -1.3877787807814457e-17,
+      "std": 0.9999905240015544,
+      "max": 15.820399542905342,
+      "kurtosis": 27.433558773671148,
+      "entropy": 1.9340827890084964
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000008",
+    "cnn_score": 0.15425653755664825,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999980661081106,
+      "max": 43.277722155431576,
+      "kurtosis": 518.596155805688,
+      "entropy": 0.915951994233533
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000100",
+    "cnn_score": 0.15334919095039368,
+    "features": {
+      "mean": -2.7755575615628914e-17,
+      "std": 0.9999891911673271,
+      "max": 15.660913829183412,
+      "kurtosis": 33.3877989873985,
+      "entropy": 1.9665422987288486
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000122",
+    "cnn_score": 0.1481897532939911,
+    "features": {
+      "mean": 0.0,
+      "std": 0.9999976560512817,
+      "max": 31.55280077818343,
+      "kurtosis": 377.5004033684676,
+      "entropy": 1.1864322560150067
+    },
+    "injected": false,
+    "injection_params": null
+  },
+  {
+    "tile_id": "tile_000089",
+    "cnn_score": 0.1476018726825714,
+    "features": {
+      "mean": -6.938893903907228e-18,
+      "std": 0.9999674892249503,
+      "max": 6.232913129496054,
+      "kurtosis": 1.9760060294805468,
+      "entropy": 3.0031343985301753
+    },
+    "injected": false,
+    "injection_params": null
+  }
+]

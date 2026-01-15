@@ -1,0 +1,35 @@
+#Example output from get_tiles.py
+
+Processing file: ../data/raw/HIP66704_0028.h5
+Frequency resolution: 0.3662109375 MHz
+~ 366210.9375 Hz
+DIMENSION_LABELS : ['frequency' 'feed_id' 'time']
+az_start : 0.0
+data_type : 1
+fch1 : 2720.80078125
+foff : -0.3662109375
+ibeam : 0
+machine_id : 10
+nbeams : 0
+nbits : 8
+nchans : 2464
+nifs : 1
+rawdatafile : 
+source_name : HIP66704
+src_dej : 50d31m08.984s
+src_raj : 13h40m22.978s
+telescope_id : 6
+tsamp : 0.0003495253333333333
+tstart : 57823.36771990741
+za_start : 0.0
+Time resolution: 0.0003495253333333333 seconds
+Time shape: (858112, 2464)
+Total time (s): 299.9318828373333
+Downsampled shape: (600, 2464)
+Saved raw spectrum to ../figures/raw_spectrum.png
+Saved raw waterfall to ../figures/raw_waterfall.png
+Saved processed spectrum to ../figures/processed_spectrum.png
+Saved processed waterfall to ../figures/processed_waterfall.png
+Preprocessing complete: (600, 2464)
+Saved 144 tiles to ../data/tiles
+Tiling complete: 144 tiles
